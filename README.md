@@ -1,6 +1,6 @@
 # Pixel
 
-Pixel is a 2D Framework
+Pixel is a 2D Framework, based on [PixelJS](https://github.com/rastating/pixel.js)
 
 ## Installing
 
